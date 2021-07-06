@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App First kotln</string>
+
+
+    <string name="facebook_app_id">3057670431185898</string>
+    <string name="fb_login_protocol_scheme">fb3057670431185898</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

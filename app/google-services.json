@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1002865705424",
+    "project_id": "bustling-vim-297720",
+    "storage_bucket": "bustling-vim-297720.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002865705424:android:a05750512c3bb59a94f9d5",
+        "android_client_info": {
+          "package_name": "app.myapp.myappfirstkotln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002865705424-cgrkda4htpkm1i40nrr07i1k1ur5cho5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.myapp.myappfirstkotln",
+            "certificate_hash": "024dc77881dcf9232a11943205dc390535f8fb15"
+          }
+        },
+        {
+          "client_id": "1002865705424-vmpi94pvic80jfpbp0rjk84810h39b93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1LmDgNVUh0dzkmBiPC_mgEUrBVRQiDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002865705424-vmpi94pvic80jfpbp0rjk84810h39b93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
